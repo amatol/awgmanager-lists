@@ -15,7 +15,7 @@
 
 | Файл | Записей | Описание |
 |------|--------:|----------|
-| [domains.lst](domains.lst) | 2052 | Домены для маршрутизации |
+| [domains.lst](domains.lst) | 2061 | Домены для маршрутизации |
 | [cidr.lst](cidr.lst)       | 13 | IP-подсети (CIDR) для маршрутизации |
 
 ---
@@ -35,6 +35,7 @@
 - [tiktok.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/tiktok.lst)
 - [twitter.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/twitter.lst)
 - [youtube.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/youtube.lst)
+- [roblox_domain  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/roblox_domain)
 
 ---
 
@@ -47,4 +48,4 @@
 
 ---
 
-*Последнее обновление: 2026-03-09 17:25:29*
+*Последнее обновление: 2026-03-09 17:26:04*
