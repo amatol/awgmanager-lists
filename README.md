@@ -16,9 +16,9 @@
 
 | Файл | Записей | Описание |
 |------|--------:|----------|
-| [domains.lst](domains.lst) | 2061 | Домены для маршрутизации |
-| [cidr.lst](cidr.lst)       | 13 | IP-подсети (CIDR) для маршрутизации |
-| [roblox.lst](roblox.lst)   | 0 | Домены и IP-подсети Roblox |
+| [domains.lst](domains.lst) | 2052 | Домены для маршрутизации |
+| [cidr.lst](cidr.lst)       | 9 | IP-подсети (CIDR) для маршрутизации |
+| [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 
 ---
 
@@ -37,7 +37,6 @@
 - [tiktok.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/tiktok.lst)
 - [twitter.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/twitter.lst)
 - [youtube.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/youtube.lst)
-- [roblox_domain  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/roblox_domain)
 
 ---
 
@@ -46,7 +45,6 @@
 Список IP-подсетей собирается из следующих источников:
 
 - [telegram.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Subnets/IPv4/telegram.lst)
-- [roblox-ips.lst  *(из amatol/xkeen-configuration)*](https://raw.githubusercontent.com/amatol/xkeen-configuration/refs/heads/main/rules/roblox-ips.lst)
 
 ---
 
@@ -54,7 +52,9 @@
 
 Список доменов и IP-подсетей Roblox (поддерживаются `route add` записи):
 
+- [roblox_domain  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/roblox_domain)
+- [Roblox_0.2.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/Roblox_0.2.bat)
 
 ---
 
-*Последнее обновление: 2026-03-09 19:41:45*
+*Последнее обновление: 2026-03-09 19:44:29*
