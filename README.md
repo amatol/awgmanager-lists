@@ -50,7 +50,7 @@
 
 ## Источники `roblox.lst`
 
-Список доменов и IP-подсетей Roblox (поддерживаются `route add` записи):
+Список доменов и IP-подсетей Roblox:
 
 - [roblox_domain  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/roblox_domain)
 - [Roblox_0.2.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/Roblox_0.2.bat)
