@@ -8,7 +8,7 @@
 > десятки ссылок — достаточно подключить нужные файлы и получить стандартный набор
 > соцсетей, мессенджеров, стриминга и AI-сервисов.
 > Roblox вынесен в отдельный файл `roblox.lst` — подключайте его при необходимости.
-> Bungie / Destiny / Not a PIR вынесены в `bungie_notapir.lst` — подключайте при необходимости.
+> Bungie / Destiny: домены и CIDR для обхода ошибки TAPIR в играх Bungie вынесены в `bungie_notapir.lst` — подключайте при необходимости.
 
 © [amatol](https://t.me/amatol_blog) • [Telegram-канал](https://t.me/amatol_blog)
 
