@@ -8,7 +8,7 @@
 > десятки ссылок — достаточно подключить нужные файлы и получить стандартный набор
 > соцсетей, мессенджеров, стриминга и AI-сервисов.
 > Roblox вынесен в отдельный файл `roblox.lst` — подключайте его при необходимости.
-> Bungie / Destiny: домены и CIDR для обхода ошибки TAPIR в играх Bungie вынесены в `bungie_notapir.lst` — подключайте при необходимости.
+> Bungie (Destiny/Marathon): домены и CIDR для обхода ошибки TAPIR в играх Bungie вынесены в `bungie_notapir.lst` — подключайте при необходимости.
 
 © [amatol](https://t.me/amatol_blog) • [Telegram-канал](https://t.me/amatol_blog)
 
@@ -21,7 +21,7 @@
 | [domains.lst](domains.lst) | 2052 | Домены для маршрутизации |
 | [cidr.lst](cidr.lst)       | 9 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
-| [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie / Destiny |
+| [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 
 ---
 
@@ -62,7 +62,7 @@
 
 ## Источники `bungie_notapir.lst`
 
-Список доменов и IP-подсетей Bungie / Destiny / Not a PIR:
+Список доменов и IP-подсетей для обхода ошибки TAPIR в играх Bungie (Destiny/Marathon):
 
 - [bungie_notapir.lst  *(из amatol/xkeen-configuration)*](https://raw.githubusercontent.com/amatol/xkeen-configuration/refs/heads/main/rules/bungie_notapir.lst)
 - [bungie_notapir_cidr.lst  *(из amatol/xkeen-configuration)*](https://raw.githubusercontent.com/amatol/xkeen-configuration/refs/heads/main/rules/bungie_notapir_cidr.lst)
