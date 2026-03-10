@@ -8,6 +8,7 @@
 > десятки ссылок — достаточно подключить нужные файлы и получить стандартный набор
 > соцсетей, мессенджеров, стриминга и AI-сервисов.
 > Roblox вынесен в отдельный файл `roblox.lst` — подключайте его при необходимости.
+> Bungie / Destiny / Not a PIR вынесены в `bungie_notapir.lst` — подключайте при необходимости.
 
 © [amatol](https://t.me/amatol_blog) • [Telegram-канал](https://t.me/amatol_blog)
 
@@ -20,6 +21,7 @@
 | [domains.lst](domains.lst) | 2052 | Домены для маршрутизации |
 | [cidr.lst](cidr.lst)       | 9 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
+| [bungie_notapir.lst](bungie_notapir.lst) | 0 | Домены и IP-подсети Bungie / Destiny |
 
 ---
 
@@ -58,4 +60,11 @@
 
 ---
 
-*Последнее обновление: 2026-03-09 19:44:29*
+## Источники `bungie_notapir.lst`
+
+Список доменов и IP-подсетей Bungie / Destiny / Not a PIR:
+
+
+---
+
+*Последнее обновление: 2026-03-10 12:43:17*
