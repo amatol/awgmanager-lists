@@ -19,7 +19,7 @@
 | Файл | Записей | Описание |
 |------|--------:|----------|
 | [domains.lst](domains.lst) | 2078 | Домены для маршрутизации |
-| [cidr.lst](cidr.lst)       | 8 | IP-подсети (CIDR) для маршрутизации |
+| [cidr.lst](cidr.lst)       | 31 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 
@@ -51,6 +51,7 @@
 Список IP-подсетей собирается из следующих источников:
 
 - [telegram.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Subnets/IPv4/telegram.lst)
+- [telegram.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Telegram/telegram.bat)
 
 ---
 
@@ -72,4 +73,4 @@
 
 ---
 
-*Последнее обновление: 2026-03-18 03:00:07*
+*Последнее обновление: 2026-03-18 16:02:32*
