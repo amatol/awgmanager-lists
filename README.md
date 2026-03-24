@@ -113,7 +113,7 @@
 | [boosty](services/boosty/boosty.lst) | 8 | 2026-03-24 13:47:02 |
 | [canva](services/canva/canva.lst) | 12 | 2026-03-24 13:47:02 |
 | [chatgpt(openai)](services/chatgpt(openai)/chatgpt(openai).lst) | 53 | 2026-03-24 13:47:02 |
-| [clash royale](services/clash royale/clash royale.lst) | 179 | 2026-03-24 13:47:02 |
+| [clash_royale](services/clash_royale/clash_royale.lst) | 179 | 2026-03-24 13:47:02 |
 | [cloudflare](services/cloudflare/cloudflare.lst) | 15 | 2026-03-24 13:47:02 |
 | [coinglass.com](services/coinglass.com/coinglass.com.lst) | 13 | 2026-03-24 13:47:02 |
 | [copilot](services/copilot/copilot.lst) | 69 | 2026-03-24 13:47:02 |
@@ -126,7 +126,7 @@
 | [ebay](services/ebay/ebay.lst) | 32 | 2026-03-24 13:47:02 |
 | [element](services/element/element.lst) | 7 | 2026-03-24 13:47:02 |
 | [envato.com](services/envato.com/envato.com.lst) | 2 | 2026-03-24 13:47:02 |
-| [epic games](services/epic games/epic games.lst) | 6 | 2026-03-24 13:47:02 |
+| [epic_games](services/epic_games/epic_games.lst) | 6 | 2026-03-24 13:47:02 |
 | [etsy.com](services/etsy.com/etsy.com.lst) | 94 | 2026-03-24 13:47:02 |
 | [ewelink](services/ewelink/ewelink.lst) | 37 | 2026-03-24 13:47:02 |
 | [facebook](services/facebook/facebook.lst) | 107 | 2026-03-24 13:47:02 |
@@ -135,7 +135,7 @@
 | [gemini](services/gemini/gemini.lst) | 13 | 2026-03-24 13:47:02 |
 | [ggsel.net](services/ggsel.net/ggsel.net.lst) | 25 | 2026-03-24 13:47:02 |
 | [grok](services/grok/grok.lst) | 5 | 2026-03-24 13:47:02 |
-| [hay day](services/hay day/hay day.lst) | 55 | 2026-03-24 13:47:02 |
+| [hay_day](services/hay_day/hay_day.lst) | 55 | 2026-03-24 13:47:02 |
 | [hdrezka](services/hdrezka/hdrezka.lst) | 6 | 2026-03-24 13:47:02 |
 | [hetzner](services/hetzner/hetzner.lst) | 70 | 2026-03-24 13:47:02 |
 | [home-connect](services/home-connect/home-connect.lst) | 9 | 2026-03-24 13:47:02 |
@@ -167,7 +167,7 @@
 | [pornhub](services/pornhub/pornhub.lst) | 23 | 2026-03-24 13:47:02 |
 | [pubg](services/pubg/pubg.lst) | 28 | 2026-03-24 13:47:02 |
 | [qoder](services/qoder/qoder.lst) | 19 | 2026-03-24 13:47:02 |
-| [raid shadow legends](services/raid shadow legends/raid shadow legends.lst) | 45 | 2026-03-24 13:47:02 |
+| [raid_shadow_legends](services/raid_shadow_legends/raid_shadow_legends.lst) | 45 | 2026-03-24 13:47:02 |
 | [roblox](services/roblox/roblox.lst) | 11 | 2026-03-24 13:47:02 |
 | [rutor.info](services/rutor.info/rutor.info.lst) | 4 | 2026-03-24 13:47:02 |
 | [signal](services/signal/signal.lst) | 7 | 2026-03-24 13:47:02 |
@@ -175,14 +175,14 @@
 | [soundcloud](services/soundcloud/soundcloud.lst) | 29 | 2026-03-24 13:47:02 |
 | [speedtest](services/speedtest/speedtest.lst) | 204 | 2026-03-24 13:47:02 |
 | [spotify](services/spotify/spotify.lst) | 78 | 2026-03-24 13:47:02 |
-| [squad busters](services/squad busters/squad busters.lst) | 90 | 2026-03-24 13:47:02 |
+| [squad_busters](services/squad_busters/squad_busters.lst) | 90 | 2026-03-24 13:47:02 |
 | [strava.com](services/strava.com/strava.com.lst) | 120 | 2026-03-24 13:47:02 |
 | [supercell](services/supercell/supercell.lst) | 266 | 2026-03-24 13:47:02 |
 | [telegram](services/telegram/telegram.lst) | 40 | 2026-03-24 13:47:02 |
 | [tevas](services/tevas/tevas.lst) | 16 | 2026-03-24 13:47:02 |
 | [themoviedb](services/themoviedb/themoviedb.lst) | 2 | 2026-03-24 13:47:02 |
 | [thetvdb](services/thetvdb/thetvdb.lst) | 140 | 2026-03-24 13:47:02 |
-| [throne and liberty](services/throne and liberty/throne and liberty.lst) | 41 | 2026-03-24 13:47:02 |
+| [throne_and_liberty](services/throne_and_liberty/throne_and_liberty.lst) | 41 | 2026-03-24 13:47:02 |
 | [tidal](services/tidal/tidal.lst) | 59 | 2026-03-24 13:47:02 |
 | [tiktok](services/tiktok/tiktok.lst) | 123 | 2026-03-24 13:47:02 |
 | [tor](services/tor/tor.lst) | 8 | 2026-03-24 13:47:02 |
@@ -201,4 +201,4 @@
 
 ---
 
-*Последнее обновление: 2026-03-24 13:47:15*
+*Последнее обновление: 2026-03-24 13:53:23*
