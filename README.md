@@ -9,6 +9,7 @@
 > соцсетей, мессенджеров, стриминга и AI-сервисов.
 > Roblox вынесен в отдельный файл `roblox.lst` — подключайте его при необходимости.
 > Bungie (Destiny/Marathon): домены и CIDR для обхода ошибки TAPIR в играх Bungie вынесены в `bungie_notapir.lst` — подключайте при необходимости.
+> Sony PlayStation Network: домены и CIDR для PSN вынесены в `sonypsn.lst` — подключайте при необходимости.
 
 © [amatol](https://t.me/amatol_blog) • [Telegram-канал](https://t.me/amatol_blog)
 
@@ -22,6 +23,7 @@
 | [cidr.lst](cidr.lst)       | 31 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
+| [sonypsn.lst](sonypsn.lst) | 0 | Домены и IP-подсети Sony PlayStation Network |
 
 ---
 
@@ -74,4 +76,11 @@
 
 ---
 
-*Последнее обновление: 2026-03-23 11:40:37*
+## Источники `sonypsn.lst`
+
+Список доменов и IP-подсетей Sony PlayStation Network:
+
+
+---
+
+*Последнее обновление: 2026-03-24 13:25:40*
