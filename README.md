@@ -23,7 +23,7 @@
 | [cidr.lst](cidr.lst)       | 31 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
-| [sonypsn.lst](sonypsn.lst) | 0 | Домены и IP-подсети Sony PlayStation Network |
+| [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
 
 ---
 
@@ -80,7 +80,8 @@
 
 Список доменов и IP-подсетей Sony PlayStation Network:
 
+- [sonypsn.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/SonyPlaystationNetwork/sonypsn.bat)
 
 ---
 
-*Последнее обновление: 2026-03-24 13:25:40*
+*Последнее обновление: 2026-03-24 13:28:28*
