@@ -20,7 +20,7 @@
 | Файл | Записей | Описание |
 |------|--------:|----------|
 | [domains.lst](domains.lst) | 2253 | Домены для маршрутизации |
-| [cidr.lst](cidr.lst)       | 31 | IP-подсети (CIDR) для маршрутизации |
+| [cidr.lst](cidr.lst)       | 100 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
@@ -55,6 +55,8 @@
 
 - [telegram.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Subnets/IPv4/telegram.lst)
 - [telegram.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Telegram/telegram.bat)
+- [Discord.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Discord/Discord.bat)
+- [discordgg.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Discord/discordgg.bat)
 
 ---
 
@@ -233,4 +235,4 @@
 
 ---
 
-*Последнее обновление: 2026-03-28 03:00:10*
+*Последнее обновление: 2026-04-03 16:59:01*
