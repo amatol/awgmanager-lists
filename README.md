@@ -20,7 +20,7 @@
 | Файл | Записей | Описание |
 |------|--------:|----------|
 | [domains.lst](domains.lst) | 2331 | Домены для маршрутизации |
-| [cidr.lst](cidr.lst)       | 100 | IP-подсети (CIDR) для маршрутизации |
+| [cidr.lst](cidr.lst)       | 101 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
@@ -235,4 +235,4 @@
 
 ---
 
-*Последнее обновление: 2026-04-08 03:00:10*
+*Последнее обновление: 2026-04-11 03:00:08*
