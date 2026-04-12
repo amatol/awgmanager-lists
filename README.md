@@ -132,6 +132,7 @@
 | [demonware_limited](services/demonware_limited/demonware_limited.lst) | 0 | 1 | 2026-03-25 13:10:31 |
 | [digash_live](services/digash_live/digash_live.lst) | 0 | 18 | 2026-03-25 13:17:29 |
 | [discord](services/discord/discord.lst) | 0 | 46 | 2026-03-25 13:17:29 |
+| [dreame](services/dreame/dreame.lst) | 0 | 15 | 2026-04-12 03:00:01 |
 | [duolingo](services/duolingo/duolingo.lst) | 0 | 8 | 2026-03-24 13:47:02 |
 | [dw](services/dw/dw.lst) | 0 | 24 | 2026-03-25 13:10:31 |
 | [ea](services/ea/ea.lst) | 0 | 19 | 2026-03-24 13:47:02 |
@@ -235,4 +236,4 @@
 
 ---
 
-*Последнее обновление: 2026-04-11 03:00:08*
+*Последнее обновление: 2026-04-12 03:00:09*
