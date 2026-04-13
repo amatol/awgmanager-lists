@@ -25,7 +25,7 @@
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
-| [blizzard.lst](blizzard.lst) | 23 | Домены и IP-подсети Blizzard Entertainment |
+| [blizzard.lst](blizzard.lst) | 83 | Домены и IP-подсети Blizzard Entertainment |
 
 ---
 
@@ -93,6 +93,7 @@
 Список доменов и IP-подсетей Blizzard Entertainment (Battle.net, WoW, Diablo, Overwatch и др.):
 
 - [blizzard.list  *(из MetaCubeX/meta-rules-dat)*](https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/blizzard.list)
+- [blizzard.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/blizzard/blizzard.bat)
 
 ---
 
@@ -246,4 +247,4 @@
 
 ---
 
-*Последнее обновление: 2026-04-13 15:32:27*
+*Последнее обновление: 2026-04-13 15:34:51*
