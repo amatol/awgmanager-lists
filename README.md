@@ -10,6 +10,7 @@
 > Roblox вынесен в отдельный файл `roblox.lst` — подключайте его при необходимости.
 > Bungie (Destiny/Marathon): домены и CIDR для обхода ошибки TAPIR в играх Bungie вынесены в `bungie_notapir.lst` — подключайте при необходимости.
 > Sony PlayStation Network: домены и CIDR для PSN вынесены в `sonypsn.lst` — подключайте при необходимости.
+> Blizzard Entertainment: домены и CIDR для Battle.net, WoW, Diablo, Overwatch и др. вынесены в `blizzard.lst` — подключайте при необходимости.
 
 © [amatol](https://t.me/amatol_blog) • [Telegram-канал](https://t.me/amatol_blog)
 
@@ -24,6 +25,7 @@
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
+| [blizzard.lst](blizzard.lst) | 23 | Домены и IP-подсети Blizzard Entertainment |
 
 ---
 
@@ -83,6 +85,14 @@
 Список доменов и IP-подсетей Sony PlayStation Network:
 
 - [sonypsn.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/SonyPlaystationNetwork/sonypsn.bat)
+
+---
+
+## Источники `blizzard.lst`
+
+Список доменов и IP-подсетей Blizzard Entertainment (Battle.net, WoW, Diablo, Overwatch и др.):
+
+- [blizzard.list  *(из MetaCubeX/meta-rules-dat)*](https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/blizzard.list)
 
 ---
 
@@ -236,4 +246,4 @@
 
 ---
 
-*Последнее обновление: 2026-04-12 03:00:09*
+*Последнее обновление: 2026-04-13 15:32:27*
