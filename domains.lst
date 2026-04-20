@@ -466,7 +466,6 @@ gonift.com
 gonitro.com
 goodreads.com
 aistudio.google.com
-android.clients.google.com
 bard.google.com
 clients6.google.com
 gemini.google.com
@@ -492,20 +491,13 @@ firebaseinstallations.googleapis.com
 geller-pa.googleapis.com
 generativelanguage.googleapis.com
 jnn-pa.googleapis.com
-play-fe.googleapis.com
-play.googleapis.com
 proactivebackend-pa.googleapis.com
-prod-lt-playstoregatewayadapter-pa.googleapis.com
 robinfrontend-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
 youtube.googleapis.com
 youtubeembeddedplayer.googleapis.com
 youtubei.googleapis.com
-googleplay.com
 googletagmanager.com
-lh3.googleusercontent.com
-play-games.googleusercontent.com
-play-lh.googleusercontent.com
 yt3.googleusercontent.com
 googlevideo.com
 gordonua.com
@@ -521,7 +513,6 @@ grok.com
 groq.com
 groupon.com
 gsc-game.com
-connectivitycheck.gstatic.com
 gtagarage.com
 downloads.gtnewhorizons.com
 guardster.com
