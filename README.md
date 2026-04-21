@@ -25,7 +25,7 @@
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
-| [blizzard.lst](blizzard.lst) | 60 | Домены и IP-подсети Blizzard Entertainment |
+| [blizzard.lst](blizzard.lst) | 83 | Домены и IP-подсети Blizzard Entertainment |
 
 ---
 
@@ -246,4 +246,4 @@
 
 ---
 
-*Последнее обновление: 2026-04-21 23:53:58*
+*Последнее обновление: 2026-04-22 00:01:50*
