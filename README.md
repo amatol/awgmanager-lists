@@ -21,11 +21,11 @@
 | Файл | Записей | Описание |
 |------|--------:|----------|
 | [domains.lst](domains.lst) | 2331 | Домены для маршрутизации |
-| [cidr.lst](cidr.lst)       | 101 | IP-подсети (CIDR) для маршрутизации |
+| [cidr.lst](cidr.lst)       | 80 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
-| [blizzard.lst](blizzard.lst) | 83 | Домены и IP-подсети Blizzard Entertainment |
+| [blizzard.lst](blizzard.lst) | 60 | Домены и IP-подсети Blizzard Entertainment |
 
 ---
 
@@ -56,7 +56,6 @@
 Список IP-подсетей собирается из следующих источников:
 
 - [telegram.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Subnets/IPv4/telegram.lst)
-- [telegram.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Telegram/telegram.bat)
 - [Discord.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Discord/Discord.bat)
 - [discordgg.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Discord/discordgg.bat)
 
@@ -247,4 +246,4 @@
 
 ---
 
-*Последнее обновление: 2026-04-21 03:00:14*
+*Последнее обновление: 2026-04-21 23:53:58*
