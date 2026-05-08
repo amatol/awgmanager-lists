@@ -64,7 +64,7 @@
 Список доменов и IP-подсетей Roblox:
 
 - [roblox_domain  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/roblox_domain)
-- [roblox-ips.lst](https://github.com/amatol/xkeen-configuration/raw/refs/heads/main/rules/roblox-ips.lst)
+- [roblox-ips.lst  *(из amatol/xkeen-configuration)*](https://raw.githubusercontent.com/amatol/xkeen-configuration/refs/heads/main/rules/roblox-ips.lst)
 
 ---
 
@@ -244,4 +244,4 @@
 
 ---
 
-*Последнее обновление: 2026-05-08 22:35:56*
+*Последнее обновление: 2026-05-08 22:45:09*
