@@ -22,7 +22,7 @@
 |------|--------:|----------|
 | [domains.lst](domains.lst) | 2299 | Домены для маршрутизации |
 | [cidr.lst](cidr.lst)       | 101 | IP-подсети (CIDR) для маршрутизации |
-| [roblox.lst](roblox.lst)   | 130 | Домены и IP-подсети Roblox |
+| [roblox.lst](roblox.lst)   | 15 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
 | [blizzard.lst](blizzard.lst) | 83 | Домены и IP-подсети Blizzard Entertainment |
@@ -64,7 +64,7 @@
 Список доменов и IP-подсетей Roblox:
 
 - [roblox_domain  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/roblox_domain)
-- [Roblox_0.2.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Roblox/Roblox_0.2.bat)
+- [roblox-ips.lst](https://github.com/amatol/xkeen-configuration/raw/refs/heads/main/rules/roblox-ips.lst)
 
 ---
 
@@ -244,4 +244,4 @@
 
 ---
 
-*Последнее обновление: 2026-05-07 03:00:16*
+*Последнее обновление: 2026-05-08 22:35:56*
