@@ -11,6 +11,7 @@
 > Bungie (Destiny/Marathon): домены и CIDR для обхода ошибки TAPIR в играх Bungie вынесены в `bungie_notapir.lst` — подключайте при необходимости.
 > Sony PlayStation Network: домены и CIDR для PSN вынесены в `sonypsn.lst` — подключайте при необходимости.
 > Blizzard Entertainment: домены и CIDR для Battle.net, WoW, Diablo, Overwatch и др. вынесены в `blizzard.lst` — подключайте при необходимости.
+> KinoPub: домены и CIDR для KinoPub вынесены в `kinopub.lst` — подключайте при необходимости.
 
 © [amatol](https://t.me/amatol_blog) • [Telegram-канал](https://t.me/amatol_blog)
 
@@ -20,12 +21,13 @@
 
 | Файл | Записей | Описание |
 |------|--------:|----------|
-| [domains.lst](domains.lst) | 2299 | Домены для маршрутизации |
+| [domains.lst](domains.lst) | 2247 | Домены для маршрутизации |
 | [cidr.lst](cidr.lst)       | 101 | IP-подсети (CIDR) для маршрутизации |
 | [roblox.lst](roblox.lst)   | 15 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
 | [blizzard.lst](blizzard.lst) | 83 | Домены и IP-подсети Blizzard Entertainment |
+| [kinopub.lst](kinopub.lst) | 16 | Домены и IP-подсети KinoPub |
 
 ---
 
@@ -91,6 +93,15 @@
 
 - [blizzard.list  *(из MetaCubeX/meta-rules-dat)*](https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/blizzard.list)
 - [blizzard.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/blizzard/blizzard.bat)
+
+---
+
+## Источники `kinopub.lst`
+
+Список доменов и IP-подсетей KinoPub:
+
+- [kinopub.list  *(из MetaCubeX/meta-rules-dat)*](https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/kinopub.list)
+- [kino.lst  *(из amatol/xkeen-configuration)*](https://raw.githubusercontent.com/amatol/xkeen-configuration/refs/heads/main/rules/kino.lst)
 
 ---
 
@@ -244,4 +255,4 @@
 
 ---
 
-*Последнее обновление: 2026-05-08 22:45:09*
+*Последнее обновление: 2026-05-09 16:18:29*
