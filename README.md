@@ -102,7 +102,6 @@
 
 - [kinopub.list  *(из MetaCubeX/meta-rules-dat)*](https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/kinopub.list)
 - [kino.lst  *(из amatol/xkeen-configuration)*](https://raw.githubusercontent.com/amatol/xkeen-configuration/refs/heads/main/rules/kino.lst)
-- [test.lst](https://example.test/test.lst)
 
 ---
 
@@ -256,4 +255,4 @@
 
 ---
 
-*Последнее обновление: 2026-05-09 16:18:29*
+*Последнее обновление: 2026-05-09 16:24:13*
