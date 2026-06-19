@@ -28,6 +28,7 @@ bsky.app
 caesium.app
 ceno.app
 comments.app
+framer.app
 hdrezka.app
 linear.app
 lucid.app
@@ -90,6 +91,7 @@ webnames.ca
 arduino.cc
 daemon-tools.cc
 atv4.dnskp.cc
+incy.cc
 kinogoo.cc
 megatfile.cc
 rezka.cc
@@ -334,6 +336,8 @@ vod-fy.crunchyrollcdn.com
 crypto.com
 cryptobriefing.com
 curseforge.com
+cursor-cdn.com
+cursorapi.com
 cvedetails.com
 cyberghostvpn.com
 cyprus-mail.com
@@ -410,6 +414,7 @@ etahub.com
 etsy.com
 euobserver.com
 euronews.com
+europesays.com
 eventbrite.com
 everand.com
 excitebots.com
@@ -445,6 +450,10 @@ fotolog.com
 foxnews.com
 fragment.com
 framer.com
+framercanvas.com
+framercdn.com
+framerstatic.com
+framerusercontent.com
 thunder.free-signal.com
 freeimages.com
 freeones.com
@@ -697,6 +706,7 @@ miiverse.com
 minds.com
 mintmobile.com
 mixcloud.com
+mmcdn.com
 modartt.com
 modrinth.com
 monacogoldcasino.com
@@ -807,6 +817,7 @@ partypoker.com
 patreon.com
 patreonusercontent.com
 paypal.com
+paywithmoon.com
 pcbway.com
 pcgamesn.com
 pcmag.com
@@ -879,6 +890,7 @@ purevpn.com
 pushbr.com
 pvpessence.com
 api.pwnedpasswords.com
+qobuz.com
 qoder.com
 qualcomm.com
 anthropic.qualtrics.com
@@ -948,7 +960,9 @@ servarr.com
 api.service-kp.com
 sex.com
 sfdcopens.com
+sharefile.com
 shiza-project.com
+sigsauer.com
 singlekey-id.com
 site.com
 siteground.com
@@ -1014,6 +1028,7 @@ surfshark.com
 surveymonkey.com
 synoforum.com
 sysdig.com
+syslog-ng.com
 t2mio.com
 tableau.com
 tailscale.com
@@ -1034,6 +1049,7 @@ thehackernews.com
 themoscowtimes.com
 theporndude.com
 thetvdb.com
+threads.com
 ti.com
 tidal.com
 tik-tokapi.com
@@ -1125,6 +1141,7 @@ warnerbrosgames.com
 watchguard.com
 wbagora.com
 wbgames.com
+wdfiles.com
 weather.com
 webmd.com
 webtoons.com
@@ -1187,7 +1204,7 @@ yting.com
 zapier.com
 zbigz.com
 zendesk.com
-app.zerossl.com
+zerossl.com
 aftermarket.zf.com
 znak.com
 znanija.com
@@ -1440,6 +1457,7 @@ replug.io
 restream.io
 scryde.io
 sentry.io
+sharefile.io
 short.io
 sms-activate.io
 sniply.io
@@ -1543,6 +1561,7 @@ kinopub.me
 kinozal.me
 libgen.me
 line.me
+manga-chan.me
 mssg.me
 nemtudo.me
 proton.me
@@ -1960,7 +1979,6 @@ itness.org
 jahforum.org
 justassociates.org
 jw.org
-jw-russia.org
 kidshealth.org
 kolsar.org
 laborrightsnow.org
@@ -2202,6 +2220,7 @@ sverigesradio.se
 svt.se
 underver.se
 ghostrc.game.idtech.services
+cursor.sh
 dub.sh
 ohmyz.sh
 ppy.sh
@@ -2242,6 +2261,7 @@ kemono.su
 php.su
 livetv.sx
 doxa.team
+jetbrains.team
 or.team
 beamng.tech
 hdrezka.tech
