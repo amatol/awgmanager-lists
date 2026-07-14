@@ -27,7 +27,7 @@
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 13 | Домены и IP-подсети Sony PlayStation Network |
 | [blizzard.lst](blizzard.lst) | 83 | Домены и IP-подсети Blizzard Entertainment |
-| [kinopub.lst](kinopub.lst) | 16 | Домены и IP-подсети KinoPub |
+| [kinopub.lst](kinopub.lst) | 21 | Домены и IP-подсети KinoPub |
 
 ---
 
@@ -255,4 +255,4 @@
 
 ---
 
-*Последнее обновление: 2026-07-10 03:00:10*
+*Последнее обновление: 2026-07-14 03:00:22*
