@@ -238,6 +238,7 @@
 | [ubiquiti](services/ubiquiti/ubiquiti.lst) | 0 | 80 | 2026-11-08 21:59:09 |
 | [ubisoft](services/ubisoft/ubisoft.lst) | 0 | 90 | 2026-11-08 21:59:09 |
 | [udemy](services/udemy/udemy.lst) | 0 | 16 | 2026-11-08 21:59:09 |
+| [unifi](services/unifi/unifi.lst) | 19 | 58 | 2026-11-13 19:29:57 |
 | [viber](services/viber/viber.lst) | 0 | 129 | 2026-11-08 21:59:09 |
 | [videocdn_tv](services/videocdn_tv/videocdn_tv.lst) | 0 | 6 | 2026-11-08 21:59:09 |
 | [warzone_xbox](services/warzone_xbox/warzone_xbox.lst) | 0 | 88 | 2026-11-08 21:59:09 |
@@ -254,4 +255,4 @@
 
 ---
 
-*Последнее обновление: 2026-11-08 22:07:48*
+*Последнее обновление: 2026-11-13 19:30:09*
