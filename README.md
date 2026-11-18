@@ -23,6 +23,7 @@
 |------|--------:|----------|
 | [domains.lst](domains.lst) | 3298 | Домены для маршрутизации |
 | [cidr.lst](cidr.lst)       | 71 | IP-подсети (CIDR) для маршрутизации |
+| [rknasnblock.lst](rknasnblock.lst) | 43128 | IPv4-подсети RKN ASN block |
 | [roblox.lst](roblox.lst)   | 15 | Домены и IP-подсети Roblox |
 | [bungie_notapir.lst](bungie_notapir.lst) | 9 | Домены и IP-подсети Bungie (Destiny/Marathon) |
 | [sonypsn.lst](sonypsn.lst) | 67 | Домены и IP-подсети Sony PlayStation Network |
@@ -57,6 +58,14 @@
 - [telegram.lst  *(из itdoginfo/allow-domains)*](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Subnets/IPv4/telegram.lst)
 - [telegram.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Telegram/telegram.bat)
 - [Discord.bat  *(из RockBlack-VPN/ip-address)*](https://raw.githubusercontent.com/RockBlack-VPN/ip-address/refs/heads/main/Global/Discord/Discord.bat)
+
+---
+
+## Источники `rknasnblock.lst`
+
+Список IPv4-подсетей RKN ASN block:
+
+- [rknasnblock.json  *(из legiz-ru/sb-rule-sets)*](https://github.com/legiz-ru/sb-rule-sets/raw/refs/heads/main/rknasnblock.json)
 
 ---
 
@@ -255,4 +264,4 @@
 
 ---
 
-*Последнее обновление: 2026-11-13 19:30:09*
+*Последнее обновление: 2026-11-18 22:46:13*
